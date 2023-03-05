@@ -10,4 +10,18 @@ It also contains a detail screen, showing each doggo's details.
 
 
 ## :camera_flash: Screenshots
-<img src="/results/screenshot_1.png" width="260"> &emsp; <img src="/results/screenshot_2.png" width="260">
+
+### Home screen
+
+<img src="/screenshots/home1.png" width="260"> &emsp; 
+<img src="/screenshots/home2.png" width="260"> &emsp; 
+<img src="/screenshots/home3.png" width="260"> &emsp; 
+<img src="/screenshots/home4.png" width="260"> &emsp; 
+<img src="/screenshots/hom5.png" width="260"> &emsp; 
+<img src="/screenshots/home6.png" width="260"> &emsp; 
+
+### Detail screen
+
+<img src="/screenshots/detail1.png" width="260"> &emsp; 
+<img src="/screenshots/detail2.png" width="260"> &emsp; 
+<img src="/screenshots/detail3.png" width="260"> &emsp; 
