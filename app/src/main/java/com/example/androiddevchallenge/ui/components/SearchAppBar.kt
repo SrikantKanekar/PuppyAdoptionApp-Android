@@ -93,7 +93,7 @@ fun SearchAppBar(
                         imeAction = ImeAction.Search,
                     ),
                     keyboardActions = KeyboardActions(
-                        onSearch = { focusManager.clearFocus(forcedClear = true) }
+                        onSearch = { focusManager.clearFocus(force = true) }
                     ),
                     textStyle = TextStyle(
                         fontSize = 16.sp,

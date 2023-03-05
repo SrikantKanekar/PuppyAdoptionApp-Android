@@ -42,7 +42,6 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
-import androidx.navigation.compose.navigate
 import com.example.androiddevchallenge.data.Puppy
 import com.example.androiddevchallenge.ui.components.SearchAppBar
 import com.example.androiddevchallenge.ui.navigation.Screen.Detail
@@ -64,7 +63,9 @@ fun HomeScreen(
         }
     ) {
         LazyColumn(
-            modifier = Modifier.fillMaxSize(),
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(it),
             contentPadding = PaddingValues(horizontal = 16.dp, vertical = 25.dp),
             verticalArrangement = Arrangement.spacedBy(16.dp)
         ) {
